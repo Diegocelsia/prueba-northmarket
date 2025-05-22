@@ -154,6 +154,9 @@ python Ejercicio3.py
 
 📂 Estructura del Proyecto
 
+  users.db: Base de datos para el login
+  log.txt: Registro de intentos de acceso
+
 ├── images
 ├── Ejercicio1.py
 ├── Ejercicio2.py
@@ -162,6 +165,5 @@ python Ejercicio3.py
 ├── log.txt          
 └── README.md
 
-  users.db: Base de datos para el login
-  log.txt: Registro de intentos de acceso
+
 
