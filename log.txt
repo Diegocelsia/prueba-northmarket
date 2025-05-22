@@ -1,0 +1,15 @@
+diego intentó iniciar sesión. Resultado: Fallido
+admin intentó iniciar sesión. Resultado: Correcto
+admin intentó iniciar sesión. Resultado: Correcto
+diego intentó iniciar sesión. Resultado: Fallido
+diego intentó iniciar sesión. Resultado: Fallido
+diego intentó iniciar sesión. Resultado: Fallido
+admin intentó iniciar sesión. Resultado: Correcto
+admin intentó iniciar sesión. Resultado: Correcto
+admin1 intentó iniciar sesión. Resultado: Fallido
+admin1 intentó iniciar sesión. Resultado: Fallido
+admin1 intentó iniciar sesión. Resultado: Fallido
+admin intentó iniciar sesión. Resultado: Correcto
+admin intentó iniciar sesión. Resultado: Fallido
+admin intentó iniciar sesión. Resultado: Fallido
+admin intentó iniciar sesión. Resultado: Fallido
